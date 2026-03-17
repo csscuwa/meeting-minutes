@@ -7,6 +7,9 @@
 ### In Attendance
 - P1, P2, ...
 
+### Late
+- nil
+
 ### Apologies
 - nil
 
